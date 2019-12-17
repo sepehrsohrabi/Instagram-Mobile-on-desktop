@@ -1,4 +1,4 @@
-# Instagram mobile to desktop
+# Instagram mobile on desktop
 Use Mobile Version of Instagram (Stories, Posting, Direct Messages) on Desktop
 
 How to use
